@@ -1,0 +1,872 @@
+{
+  "generatedAt": "2026-04-03T14:41:51.095Z",
+  "totals": {
+    "people": 0,
+    "withAge": 0,
+    "withMarkets": 0
+  },
+  "source": "fallback",
+  "notice": "fetch failed",
+  "sections": [
+    {
+      "key": "oldestCurrentMembers",
+      "eyebrow": "Age rank",
+      "title": "Oldest Members of Congress",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Chuck Grassley",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "91",
+          "market": "",
+          "summary": "Oldest sitting member in this list"
+        },
+        {
+          "rank": 2,
+          "name": "Hal Rogers",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "87",
+          "market": "",
+          "summary": "Senior House member"
+        },
+        {
+          "rank": 3,
+          "name": "Maxine Waters",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "86",
+          "market": "",
+          "summary": "Long-serving House member"
+        },
+        {
+          "rank": 4,
+          "name": "Steny Hoyer",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "85",
+          "market": "",
+          "summary": "Long-serving House leader"
+        },
+        {
+          "rank": 5,
+          "name": "James Clyburn",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "84",
+          "market": "",
+          "summary": "Veteran House leader"
+        },
+        {
+          "rank": 6,
+          "name": "Nancy Pelosi",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "84",
+          "market": "",
+          "summary": "Former House speaker"
+        },
+        {
+          "rank": 7,
+          "name": "Bernie Sanders",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "83",
+          "market": "",
+          "summary": "Senior senator from Vermont"
+        },
+        {
+          "rank": 8,
+          "name": "John Carter",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "83",
+          "market": "",
+          "summary": "Senior House member from Texas"
+        },
+        {
+          "rank": 9,
+          "name": "Mitch McConnell",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "82",
+          "market": "",
+          "summary": "Longtime Senate leader"
+        },
+        {
+          "rank": 10,
+          "name": "Jim Risch",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "81",
+          "market": "",
+          "summary": "Senior senator from Idaho"
+        }
+      ]
+    },
+    {
+      "key": "youngestCurrentMembers",
+      "eyebrow": "Age rank",
+      "title": "Youngest Members of Congress",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Maxwell Frost",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "27",
+          "market": "",
+          "summary": "Youngest sitting member in this list"
+        },
+        {
+          "rank": 2,
+          "name": "Addison McDowell",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "30",
+          "market": "",
+          "summary": "Among the youngest House members"
+        },
+        {
+          "rank": 3,
+          "name": "Brandon Gill",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "30",
+          "market": "",
+          "summary": "Among the youngest House members"
+        },
+        {
+          "rank": 4,
+          "name": "Yassamin Ansari",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "32",
+          "market": "",
+          "summary": "Young House member from Arizona"
+        },
+        {
+          "rank": 5,
+          "name": "Abraham Hamadeh",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "33",
+          "market": "",
+          "summary": "Young House member from Arizona"
+        },
+        {
+          "rank": 6,
+          "name": "Sarah McBride",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "34",
+          "market": "",
+          "summary": "Young House member from Delaware"
+        },
+        {
+          "rank": 7,
+          "name": "Rob Bresnahan Jr.",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "34",
+          "market": "",
+          "summary": "Young House member from Pennsylvania"
+        },
+        {
+          "rank": 8,
+          "name": "Sara Jacobs",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "35",
+          "market": "",
+          "summary": "Young House member from California"
+        },
+        {
+          "rank": 9,
+          "name": "Alexandria Ocasio-Cortez",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "35",
+          "market": "",
+          "summary": "High-profile young House member"
+        },
+        {
+          "rank": 10,
+          "name": "Anna Paulina Luna",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "35",
+          "market": "",
+          "summary": "Young House member from Florida"
+        }
+      ]
+    },
+    {
+      "key": "twoFirstNames",
+      "eyebrow": "Name list",
+      "title": "Congressmen With Two First Names",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Tim Scott",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Two first names",
+          "market": "",
+          "summary": "Senator from South Carolina"
+        },
+        {
+          "rank": 2,
+          "name": "Rick Scott",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Two first names",
+          "market": "",
+          "summary": "Senator from Florida"
+        },
+        {
+          "rank": 3,
+          "name": "Mike Lee",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Two first names",
+          "market": "",
+          "summary": "Senator from Utah"
+        },
+        {
+          "rank": 4,
+          "name": "Ron Johnson",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Two first names",
+          "market": "",
+          "summary": "Senator from Wisconsin"
+        },
+        {
+          "rank": 5,
+          "name": "Jim Jordan",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Two first names",
+          "market": "",
+          "summary": "Representative from Ohio"
+        },
+        {
+          "rank": 6,
+          "name": "Mike Johnson",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Two first names",
+          "market": "",
+          "summary": "Representative from Louisiana"
+        },
+        {
+          "rank": 7,
+          "name": "Scott Perry",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Two first names",
+          "market": "",
+          "summary": "Representative from Pennsylvania"
+        },
+        {
+          "rank": 8,
+          "name": "Tom Cole",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Two first names",
+          "market": "",
+          "summary": "Representative from Oklahoma"
+        }
+      ]
+    },
+    {
+      "key": "vegetariansVegans",
+      "eyebrow": "Food politics",
+      "title": "Known Vegetarians / Vegans in Congress",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Cory Booker",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Vegan",
+          "market": "",
+          "summary": "One of the best-known vegan members of Congress"
+        },
+        {
+          "rank": 2,
+          "name": "Ro Khanna",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Vegetarian",
+          "market": "",
+          "summary": "Publicly associated with a vegetarian diet"
+        }
+      ]
+    },
+    {
+      "key": "baldMembers",
+      "eyebrow": "Hairline caucus",
+      "title": "Fully Bald Members of Congress",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Rick Scott",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Fully shaved",
+          "market": "",
+          "summary": "Consistently keeps a completely smooth shaved head"
+        },
+        {
+          "rank": 2,
+          "name": "John Fetterman",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Fully shaved",
+          "market": "",
+          "summary": "Known for a fully shaved head and signature goatee"
+        },
+        {
+          "rank": 3,
+          "name": "Cory Booker",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Fully bald",
+          "market": "",
+          "summary": "Has worn a clean-shaven bald look throughout his national career"
+        },
+        {
+          "rank": 4,
+          "name": "Ayanna Pressley",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Bald",
+          "market": "",
+          "summary": "Public advocate on alopecia who often appears with a smooth bald head"
+        },
+        {
+          "rank": 5,
+          "name": "Hakeem Jeffries",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Tightly shaved",
+          "market": "",
+          "summary": "Keeps a very clean tightly shaved head"
+        },
+        {
+          "rank": 6,
+          "name": "Greg Steube",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Closely shaved",
+          "market": "",
+          "summary": "Keeps his head shaved to the point of appearing fully bald"
+        }
+      ]
+    },
+    {
+      "key": "disneyWorld",
+      "eyebrow": "Confirmed travel",
+      "title": "Members of Congress Who Have Been to Disney World",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Lindsey Graham",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Best documented example",
+          "market": "Photographed and widely reported Disney World visit",
+          "summary": "Caught on camera during a congressional recess, including ride lines, restaurants, and carrying a bubble wand. The trip became part of the shutdown-era media cycle."
+        }
+      ]
+    },
+    {
+      "key": "wealthiestMembers",
+      "eyebrow": "Net worth",
+      "title": "Pre-Politics Wealth Heavyweights",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Jim Justice",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$1B+",
+          "market": "",
+          "summary": "Coal and resort empire"
+        },
+        {
+          "rank": 2,
+          "name": "Rick Scott",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$500M+",
+          "market": "",
+          "summary": "Hospital company founder"
+        },
+        {
+          "rank": 3,
+          "name": "Mark Warner",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$200M+",
+          "market": "",
+          "summary": "Venture capital"
+        },
+        {
+          "rank": 4,
+          "name": "Pete Ricketts",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$200M+",
+          "market": "",
+          "summary": "TD Ameritrade family"
+        },
+        {
+          "rank": 5,
+          "name": "Mitt Romney",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$200M+",
+          "market": "",
+          "summary": "Bain Capital"
+        },
+        {
+          "rank": 6,
+          "name": "Darrell Issa",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$400M+",
+          "market": "",
+          "summary": "Car alarm business"
+        },
+        {
+          "rank": 7,
+          "name": "Markwayne Mullin",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$60M-$70M",
+          "market": "",
+          "summary": "Plumbing business"
+        },
+        {
+          "rank": 8,
+          "name": "Suzan DelBene",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$70M-$80M",
+          "market": "",
+          "summary": "Microsoft executive"
+        },
+        {
+          "rank": 9,
+          "name": "Ron Johnson",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$70M-$80M",
+          "market": "",
+          "summary": "Manufacturing CEO"
+        },
+        {
+          "rank": 10,
+          "name": "Bill Hagerty",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~$50M+",
+          "market": "",
+          "summary": "Investment firm executive"
+        }
+      ]
+    },
+    {
+      "key": "wealthIncrease",
+      "eyebrow": "Asset growth",
+      "title": "Biggest Wealth Increases in Congress",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Patrick Murphy",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~1400% increase",
+          "market": "",
+          "summary": "One of the steepest reported gains"
+        },
+        {
+          "rank": 2,
+          "name": "Chellie Pingree",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Massive jump",
+          "market": "",
+          "summary": "Increase tied to marriage and asset consolidation"
+        },
+        {
+          "rank": 3,
+          "name": "Mike Pence",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Large early-career increase",
+          "market": "",
+          "summary": "Strong growth from a lower early baseline"
+        },
+        {
+          "rank": 4,
+          "name": "Roy Blunt",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Multi-million gain",
+          "market": "",
+          "summary": "Substantial gain over time in office"
+        },
+        {
+          "rank": 5,
+          "name": "Loretta Sanchez",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Significant net worth growth",
+          "market": "",
+          "summary": "Large increase reported across tenure"
+        },
+        {
+          "rank": 6,
+          "name": "Saxby Chambliss",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Large increase",
+          "market": "",
+          "summary": "Notable gains during congressional service"
+        },
+        {
+          "rank": 7,
+          "name": "Adam Kinzinger",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Strong % growth",
+          "market": "",
+          "summary": "Strong percentage growth from a low base"
+        },
+        {
+          "rank": 8,
+          "name": "Ted Poe",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Notable increase",
+          "market": "",
+          "summary": "Substantial increase over time"
+        },
+        {
+          "rank": 9,
+          "name": "Mark Warner",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Continued growth",
+          "market": "",
+          "summary": "Already wealthy, but still increased substantially"
+        },
+        {
+          "rank": 10,
+          "name": "Nancy Pelosi",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Major long-term growth",
+          "market": "",
+          "summary": "Long-run wealth increase over many years"
+        }
+      ]
+    },
+    {
+      "key": "mostAbsent",
+      "eyebrow": "Missed votes",
+      "title": "Most Absent Members of Congress",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Donald Payne Jr.",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~60%+ missed",
+          "market": "",
+          "summary": "Health-related absence before death"
+        },
+        {
+          "rank": 2,
+          "name": "Kay Granger",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "~40%+ missed",
+          "market": "",
+          "summary": "Late-term absence"
+        },
+        {
+          "rank": 3,
+          "name": "Nancy Pelosi",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Elevated absences",
+          "market": "",
+          "summary": "Leadership and travel periods pushed absences higher"
+        },
+        {
+          "rank": 4,
+          "name": "Kevin McCarthy",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Higher missed-vote rate",
+          "market": "",
+          "summary": "Speakership turmoil coincided with missed votes"
+        },
+        {
+          "rank": 5,
+          "name": "Cori Bush",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Above-average missed votes",
+          "market": "",
+          "summary": "Repeatedly landed above chamber averages"
+        },
+        {
+          "rank": 6,
+          "name": "Matt Gaetz",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Elevated absences",
+          "market": "",
+          "summary": "Political activity coincided with missed votes"
+        },
+        {
+          "rank": 7,
+          "name": "Marjorie Taylor Greene",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Higher-than-average",
+          "market": "",
+          "summary": "Missed-vote rate exceeded chamber norm"
+        },
+        {
+          "rank": 8,
+          "name": "Dean Phillips",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Campaign-related absences",
+          "market": "",
+          "summary": "Presidential run increased missed votes"
+        },
+        {
+          "rank": 9,
+          "name": "Tim Scott",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Campaign-cycle absences",
+          "market": "",
+          "summary": "National campaign schedule drove missed votes"
+        },
+        {
+          "rank": 10,
+          "name": "Bernie Sanders",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Historically higher absences",
+          "market": "",
+          "summary": "Travel and campaign activity are recurring factors"
+        }
+      ]
+    },
+    {
+      "key": "talkativeMembers",
+      "eyebrow": "Floor time",
+      "title": "Yap Leaderboard",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Ted Cruz",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "21-hour pseudo-filibuster",
+          "market": "",
+          "summary": "One of the best-known marathon Senate speeches"
+        },
+        {
+          "rank": 2,
+          "name": "Cory Booker",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Marathon speeches",
+          "market": "",
+          "summary": "Frequent long-form floor appearances"
+        },
+        {
+          "rank": 3,
+          "name": "Bernie Sanders",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Constant floor speeches",
+          "market": "",
+          "summary": "Consistently heavy messaging and floor time"
+        },
+        {
+          "rank": 4,
+          "name": "Elizabeth Warren",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Heavy policy speech output",
+          "market": "",
+          "summary": "Frequent and detailed policy remarks"
+        },
+        {
+          "rank": 5,
+          "name": "Chuck Schumer",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Frequent leadership remarks",
+          "market": "",
+          "summary": "Leadership role keeps him on the floor often"
+        },
+        {
+          "rank": 6,
+          "name": "Kevin McCarthy",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Long leadership speeches",
+          "market": "",
+          "summary": "Extended remarks during leadership fights"
+        },
+        {
+          "rank": 7,
+          "name": "Hakeem Jeffries",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Record-breaking extended speech",
+          "market": "",
+          "summary": "Set a modern House speech record in 2023"
+        },
+        {
+          "rank": 8,
+          "name": "Rand Paul",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Multiple filibuster-style speeches",
+          "market": "",
+          "summary": "Known for long liberty-themed floor speeches"
+        },
+        {
+          "rank": 9,
+          "name": "Chris Murphy",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Gun-control filibuster speeches",
+          "market": "",
+          "summary": "Long Senate floor actions drew national attention"
+        },
+        {
+          "rank": 10,
+          "name": "Al Green",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Frequent lengthy remarks",
+          "market": "",
+          "summary": "Repeatedly uses floor time for extended statements"
+        }
+      ]
+    },
+    {
+      "key": "worstTraders",
+      "eyebrow": "Stock trading",
+      "title": "Worst Congressional Stock Traders",
+      "items": [
+        {
+          "rank": 1,
+          "name": "David Perdue",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Poorly timed frequent trades",
+          "market": "",
+          "summary": "Heavy trading drew scrutiny before 2021"
+        },
+        {
+          "rank": 2,
+          "name": "Kelly Loeffler",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Mixed performance under scrutiny",
+          "market": "",
+          "summary": "Controversial trades became a major story"
+        },
+        {
+          "rank": 3,
+          "name": "Tom Malinowski",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Late disclosures",
+          "market": "",
+          "summary": "Trades triggered ethics concerns"
+        },
+        {
+          "rank": 4,
+          "name": "Blake Moore",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Tech losses",
+          "market": "",
+          "summary": "Reported losses during the tech downturn"
+        },
+        {
+          "rank": 5,
+          "name": "Markwayne Mullin",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Mixed portfolio results",
+          "market": "",
+          "summary": "Performance lagged broader market benchmarks"
+        },
+        {
+          "rank": 6,
+          "name": "Dan Crenshaw",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Underperformance",
+          "market": "",
+          "summary": "Disclosed trades trailed the market"
+        },
+        {
+          "rank": 7,
+          "name": "Sean Patrick Maloney",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Poor timing",
+          "market": "",
+          "summary": "Losses tied to badly timed positions"
+        },
+        {
+          "rank": 8,
+          "name": "Tom Carper",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Lagging conservative trades",
+          "market": "",
+          "summary": "Conservative trading style still trailed indices"
+        },
+        {
+          "rank": 9,
+          "name": "Debbie Stabenow",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Low-return positions",
+          "market": "",
+          "summary": "Disclosed holdings underperformed"
+        },
+        {
+          "rank": 10,
+          "name": "John Hickenlooper",
+          "photoUrl": null,
+          "meta": "Member of Congress",
+          "stat": "Passive-style lag",
+          "market": "",
+          "summary": "Returns trailed broader indices"
+        }
+      ]
+    }
+  ]
+}

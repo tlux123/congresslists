@@ -1,0 +1,9 @@
+{
+  "name": "meet-congress-lists",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ranked congressional candidate lists powered by the Market Aggregator API.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

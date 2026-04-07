@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meet Congress Lists</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body class="is-loading">
+    <div class="page-loader" id="pageLoader" aria-hidden="true">
+      <div class="loader-capitol">
+        <div class="loader-dome"></div>
+        <div class="loader-wing loader-wing-left"></div>
+        <div class="loader-wing loader-wing-right"></div>
+        <div class="loader-steps"></div>
+      </div>
+      <p class="loader-kicker">The Capitol is opening</p>
+      <h2>Loading the lists inside...</h2>
+    </div>
+
+    <div class="page-shell">
+      <header class="hero">
+        <p class="eyebrow">Open a room. Get a list.</p>
+        <h1>Congress Lists</h1>
+      </header>
+
+      <section class="capitol-stage" aria-label="List navigation">
+        <div class="capitol-directory">
+          <div class="capitol-dome">
+
+            <div class="capitol-cupola"></div>
+            <div class="capitol-drum"></div>
+          </div>
+          <div class="capitol-pediment"></div>
+          <div class="capitol-roof"></div>
+          <div class="capitol-body">
+            <div class="capitol-columns"></div>
+            <div class="capitol-center-block"></div>
+            <div class="capitol-wings"></div>
+            <div class="capitol-windows" id="listNav"></div>
+          </div>
+          <div class="capitol-steps"></div>
+        </div>
+      </section>
+
+      <main class="lists-grid" id="listsGrid">
+        <section class="list-panel">
+          <h2>Loading lists...</h2>
+        </section>
+      </main>
+    </div>
+
+    <template id="panelTemplate">
+      <section class="list-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow"></p>
+            <h2></h2>
+          </div>
+        </div>
+        <div class="panel-list"></div>
+      </section>
+    </template>
+
+    <template id="cardTemplate">
+      <article class="person-card">
+        <span class="rank-pill"></span>
+        <img alt="" />
+        <div class="person-copy">
+          <h3></h3>
+          <p class="person-meta"></p>
+          <p class="person-stat"></p>
+          <p class="person-market"></p>
+        </div>
+      </article>
+    </template>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
+
