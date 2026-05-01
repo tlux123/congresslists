@@ -191,7 +191,7 @@ body.is-ready .page-loader {
 /* === HERO === */
 
 .hero {
-  padding: 40px 24px 32px;
+  padding: 20px 24px 32px;
   text-align: center;
 }
 
@@ -221,8 +221,9 @@ h1 {
   font-family: 'Playfair Display', Georgia, serif;
   font-size: clamp(3rem, 7.5vw, 5.5rem);
   font-weight: 900;
-  line-height: 0.9;
+  line-height: 1;
   letter-spacing: -0.04em;
+  padding-bottom: 0.06em;
   background: linear-gradient(135deg, var(--navy-deep) 0%, var(--navy-mid) 55%, var(--navy) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
