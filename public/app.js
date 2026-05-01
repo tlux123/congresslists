@@ -95,7 +95,9 @@ function renderCard(item) {
   fragment.querySelector(".rank-pill").textContent = item.rank;
 
   const image = fragment.querySelector("img");
-  if (item.photoUrl) {
+  if (item.noPhoto) {
+    image.remove();
+  } else if (item.photoUrl) {
     image.src = item.photoUrl;
     image.alt = item.name;
   } else {
@@ -122,6 +124,9 @@ function renderPanel(sectionData, index) {
   fragment.querySelector("h2").textContent = sectionData.title;
 
   const list = fragment.querySelector(".panel-list");
+  if (sectionData.textLayout) {
+    list.classList.add("panel-list--text");
+  }
   sectionData.items.forEach((item) => {
     list.appendChild(renderCard(item));
   });

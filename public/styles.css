@@ -589,6 +589,12 @@ h1 {
   font-family: 'Inter', sans-serif;
 }
 
+/* === TEXT-ONLY LIST (no photos) === */
+
+.panel-list--text .person-card {
+  grid-template-columns: 36px 1fr;
+}
+
 /* === RESPONSIVE === */
 
 @media (max-width: 980px) {
@@ -632,6 +638,10 @@ h1 {
     grid-template-columns: 32px 62px 1fr;
     padding: 14px 16px;
     gap: 12px;
+  }
+
+  .panel-list--text .person-card {
+    grid-template-columns: 32px 1fr;
   }
 
   .person-card img {
