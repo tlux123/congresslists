@@ -867,6 +867,94 @@
           "summary": "Returns trailed broader indices"
         }
       ]
+    },
+    {
+      "key": "doctorsInPolitics",
+      "eyebrow": "Medical field",
+      "title": "Physicians Who've Entered the Arena",
+      "textLayout": true,
+      "items": [
+        {
+          "rank": 1,
+          "name": "Amish Shah",
+          "noPhoto": true,
+          "photoUrl": null,
+          "meta": "Emergency physician · Arizona",
+          "stat": "",
+          "market": "",
+          "summary": ""
+        },
+        {
+          "rank": 2,
+          "name": "Kelly Morrison",
+          "noPhoto": true,
+          "photoUrl": null,
+          "meta": "OB/GYN · Minnesota",
+          "stat": "",
+          "market": "",
+          "summary": ""
+        },
+        {
+          "rank": 3,
+          "name": "Maxine Dexter",
+          "noPhoto": true,
+          "photoUrl": null,
+          "meta": "Pulmonary & critical care · Oregon",
+          "stat": "",
+          "market": "",
+          "summary": ""
+        },
+        {
+          "rank": 4,
+          "name": "Kristin Lyerly",
+          "noPhoto": true,
+          "photoUrl": null,
+          "meta": "OB/GYN · Wisconsin",
+          "stat": "",
+          "market": "",
+          "summary": ""
+        },
+        {
+          "rank": 5,
+          "name": "Herb Conaway",
+          "noPhoto": true,
+          "photoUrl": null,
+          "meta": "Internal medicine · New Jersey",
+          "stat": "",
+          "market": "",
+          "summary": ""
+        },
+        {
+          "rank": 6,
+          "name": "Mike Kennedy",
+          "noPhoto": true,
+          "photoUrl": null,
+          "meta": "Family physician · Utah",
+          "stat": "",
+          "market": "",
+          "summary": ""
+        },
+        {
+          "rank": 7,
+          "name": "Bob Onder",
+          "noPhoto": true,
+          "photoUrl": null,
+          "meta": "Allergist & immunologist · Missouri",
+          "stat": "",
+          "market": "",
+          "summary": ""
+        },
+        {
+          "rank": 8,
+          "name": "Tim Peck",
+          "noPhoto": true,
+          "photoUrl": null,
+          "meta": "Emergency physician · Indiana",
+          "stat": "",
+          "market": "",
+          "summary": ""
+        }
+      ]
     }
   ]
 }
